@@ -1,0 +1,1 @@
+MONGO = mongodb+srv://gs61529:genta@genta.fczyxgp.mongodb.net/booking?retryWrites=true&w=majority
